@@ -1,5 +1,6 @@
 $Resize:On
 $Resize:Stretch
+_FULLSCREEN
 Screen 13
 Randomize Timer
 Dim TextField(25, 40, 2) As _Unsigned _Bit * 4
